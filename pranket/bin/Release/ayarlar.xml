@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<BESADIM>
+    	<PusulaServer>SOZDAR</PusulaServer>
+	<PusulaSQLDatabase>test2</PusulaSQLDatabase>
+	<PusulaSQLAdi>sa</PusulaSQLAdi>
+	<PusulaSQLSifre>123456</PusulaSQLSifre>
+	<PusulaTag>test2</PusulaTag>
+	<SMSSirket>mobildev</SMSSirket>
+	<SMSKullanici>sehitkamil</SMSKullanici>
+	<SMSKodu>mb1944</SMSKodu>
+    	<SMSSifre>4664</SMSSifre> 
+	<SMSBaslik>ANKAHASTANE</SMSBaslik>
+	<SMSIcerik>Sayın xxx, hastanemizi tercih ettiğiniz için teşekkür ederiz. Anketimize katılmanızı rica ederiz.</SMSIcerik>
+	<SirketId>1</SirketId>
+</BESADIM>

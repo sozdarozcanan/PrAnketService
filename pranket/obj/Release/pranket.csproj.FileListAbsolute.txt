@@ -1,0 +1,60 @@
+C:\Users\sozda\Desktop\pranket\pranket\bin\Release\pranket.exe.config
+C:\Users\sozda\Desktop\pranket\pranket\bin\Release\pranket.exe
+C:\Users\sozda\Desktop\pranket\pranket\bin\Release\pranket.pdb
+C:\Users\sozda\Desktop\pranket\pranket\bin\Release\Newtonsoft.Json.dll
+C:\Users\sozda\Desktop\pranket\pranket\bin\Release\Newtonsoft.Json.xml
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.csprojAssemblyReference.cache
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.ProjectInstaller.resources
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.csproj.GenerateResource.cache
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.csproj.CoreCompileInputs.cache
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.csproj.CopyComplete
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.exe
+C:\Users\sozda\Desktop\pranket\pranket\obj\Release\pranket.pdb
+C:\Users\gungo\Desktop\pranket\pranket\bin\Release\pranket.exe.config
+C:\Users\gungo\Desktop\pranket\pranket\bin\Release\pranket.exe
+C:\Users\gungo\Desktop\pranket\pranket\bin\Release\pranket.pdb
+C:\Users\gungo\Desktop\pranket\pranket\bin\Release\Newtonsoft.Json.dll
+C:\Users\gungo\Desktop\pranket\pranket\bin\Release\Newtonsoft.Json.xml
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.csprojAssemblyReference.cache
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.ProjectInstaller.resources
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.csproj.GenerateResource.cache
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.csproj.CoreCompileInputs.cache
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.csproj.CopyComplete
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.exe
+C:\Users\gungo\Desktop\pranket\pranket\obj\Release\pranket.pdb
+C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe.config
+C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.pdb
+C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\Newtonsoft.Json.dll
+C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\Newtonsoft.Json.xml
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.csprojAssemblyReference.cache
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.ProjectInstaller.resources
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.csproj.GenerateResource.cache
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.csproj.CoreCompileInputs.cache
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.csproj.CopyComplete
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.exe
+C:\Users\sozda\Desktop\Yeni klasör\pranket\obj\Release\pranket.pdb
+C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe.config
+C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.pdb
+C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\Newtonsoft.Json.dll
+C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\Newtonsoft.Json.xml
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\pranket.ProjectInstaller.resources
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\prAnket.csproj.GenerateResource.cache
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\prAnket.csproj.CoreCompileInputs.cache
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\prAnket.csproj.CopyComplete
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\pranket.exe
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\pranket.pdb
+C:\Users\sozda\Desktop\pranketservis\pranket\obj\Release\prAnket.csprojAssemblyReference.cache
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\bin\Release\pranket.exe.config
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\bin\Release\pranket.exe
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\bin\Release\pranket.pdb
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\bin\Release\Newtonsoft.Json.dll
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\bin\Release\Newtonsoft.Json.xml
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\prAnket.csprojAssemblyReference.cache
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\pranket.ProjectInstaller.resources
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\prAnket.csproj.GenerateResource.cache
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\prAnket.csproj.CoreCompileInputs.cache
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\prAnket.csproj.CopyComplete
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\pranket.exe
+C:\Users\sozda\Desktop\Dosyalarım\DERS\PROJE\pranketservis\pranket\obj\Release\pranket.pdb

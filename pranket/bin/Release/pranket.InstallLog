@@ -1,0 +1,125 @@
+﻿Installing assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Installing service pranket...
+Service pranket has been successfully installed.
+Creating EventLog source pranket in log Application...
+Committing assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Uninstalling assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Removing EventLog source pranket.
+Service pranket is being removed from the system...
+Service pranket was successfully removed from the system.
+Installing assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Rolling back assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Rolling back assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Installing service pranket...
+Service pranket has been successfully installed.
+Creating EventLog source pranket in log Application...
+Committing assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Uninstalling assembly 'C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\Yeni klasör\pranket\bin\Release\pranket.exe
+Removing EventLog source pranket.
+Service pranket is being removed from the system...
+Service pranket was successfully removed from the system.
+Installing assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Installing service pranket...
+Service pranket has been successfully installed.
+Creating EventLog source pranket in log Application...
+Committing assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Uninstalling assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Removing EventLog source pranket.
+Service pranket is being removed from the system...
+Service pranket was successfully removed from the system.
+Attempt to stop service pranket.
+Installing assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Installing service pranket...
+Creating EventLog source pranket in log Application...
+Rolling back assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Restoring event log to previous state for source pranket.
+Installing assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Installing service pranket...
+Service pranket has been successfully installed.
+Creating EventLog source pranket in log Application...
+Committing assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Uninstalling assembly 'C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.InstallLog
+   assemblypath = C:\Users\sozda\Desktop\pranketservis\pranket\bin\Release\pranket.exe
+Removing EventLog source pranket.
+Service pranket is being removed from the system...
+Service pranket was successfully removed from the system.
+Attempt to stop service pranket.
